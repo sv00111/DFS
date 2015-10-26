@@ -1,0 +1,24 @@
+Shrey Valia
+svalia
+PA5-README
+
+
+Files I am submitting:
+
+List.c - List ADT to create a doubly linked list
+List.h-Header file for List ADT
+Graph.c- Graph ADT to make the graph and run DFS
+Graph.h - Header file for Graph ADT
+GraphTest.c - Testing Client to test Graph ADT
+FindComponents.c - C file to import graph, run DFS, and export to txt file
+Makefile- compile and run the files (given to us, modified to run testing client)
+README - List of all the files I am turning in
+
+
+
+
+
+
+
+
+
